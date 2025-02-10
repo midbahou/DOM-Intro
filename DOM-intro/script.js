@@ -22,7 +22,7 @@ console.log(ul.lastElementChild);
 console.log(ul.childNodes);
 
 console.log(ul.firstElementChild.nextElementSibling);
-console.log(ul.firstElementChild.nextElementSibling.children); // childreen only provide the html elements
+console.log(ul.firstElementChild.nextElementSibling.children); // children only provide the html elements
 
 
 // Add or remove an element
